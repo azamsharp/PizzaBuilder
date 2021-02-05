@@ -8,3 +8,6 @@ def deliver_pizza(address):
 
 def add_drinks():
     pass 
+
+def cancel_drinks(): 
+    pass 
