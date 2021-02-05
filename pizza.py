@@ -5,3 +5,6 @@ def create_pizza(size, toppings):
 
 def deliver_pizza(address): 
     print(f"Deliver pizza to {address}")
+
+def add_drinks():
+    pass 
